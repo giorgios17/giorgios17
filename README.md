@@ -2,7 +2,7 @@
 <p><img align="right" src="https://github.com/giorgios17/giorgios17/blob/main/animation_500_kxa883sd.gif" /></p>
 
 
-- 🌱 I’m currently learning **Html, Css, JavaScript, React.js, Vue.js, Sass, Bootstrap, PHP, Laravel, Mysql**
+- My core skills currently include HTML, CSS, JavaScript, React, TypeScript, Bootstrap and MUI.
 
 - 📫 How to reach me **giosur@live.it**
 
